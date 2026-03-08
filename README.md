@@ -6,7 +6,7 @@ Applied Data Scientist with 15+ years building predictive and decision systems i
 
 Specializing in turning messy customer behavior signals into reliable decision tools for marketing, risk, and strategy.
 
-### Signature Strength
+## Signature Strength
 Diagnosing weak or underperforming models and rebuilding them into reliable decision systems.
 
 My work often focuses on:
