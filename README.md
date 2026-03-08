@@ -8,7 +8,6 @@ Specializing in turning messy customer behavior signals into reliable decision t
 
 ## Signature Strength
 Diagnosing weak or underperforming models and rebuilding them into reliable decision systems.
-
 My work often focuses on:
 - behavioral segmentation
 - feature engineering that captures real customer behavior
