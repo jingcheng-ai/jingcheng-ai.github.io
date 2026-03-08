@@ -2,26 +2,25 @@
 # Hi, I'm Jing!
 
 
-Applied Data Scientist with 15+ years building behavioral models and decision systems in financial and customer data environments.
+Applied Data Scientist with 15+ years of experience building predictive models and decision systems in complex behavioral data environments.
 
-Specializing in turning messy customer behavior signals into reliable decision tools for marketing, risk, and strategy.
+I specialize in diagnosing weak predictive models and rebuilding them into reliable decision systems used for real business decisions.
 
 ## Signature Strength
-I specialize in diagnosing weak models and rebuilding them into reliable decision systems.
-My work often focuses on:
+
+Turning messy behavioral data into practical decision tools through:
 - behavioral segmentation
-- feature engineering that captures real customer behavior
-- interpretable models that teams can deploy and trust
+- feature engineering grounded in real customer behavior
+- interpretable machine learning models that teams can deploy and trust
 
 ## Approach
 
-Most predictive systems fail because behavioral signals are poorly represented in the data.
-
+Most predictive systems fail because real signals are poorly represented in the data.
 My process typically follows three steps:
 - Identify the behavioral structure hidden in the data
-- Engineer features that capture those behavioral patterns
-- Use simple, interpretable models to translate those signals into reliable decisions
-This often reveals meaningful customer segments and drivers that complex models miss.
+- Engineer features that capture those patterns
+- Building interpretable models that translate signals into reliable decisions
+This often reveals meaningful segments and drivers that complex models overlook.
 
 ## Core Capabilities
 
@@ -44,7 +43,11 @@ This often reveals meaningful customer segments and drivers that complex models 
 
 • **End-to-End Machine Learning Pipeline (ongoing project)**  
   Reusable workflow with feature engineering and evaluation tools for improving predictive models.
-  
+
+ • **Credit Card Behavioral Segmentation(ongoing project)**
+
+ • **Diagnosing and Improving Weak Predictive Models(ongoing project)**
+
 ## Tools
 
 Python • Machine Learning • NLP • Graph Analytics • RAG
