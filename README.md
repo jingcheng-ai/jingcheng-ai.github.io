@@ -7,17 +7,13 @@ Machine learning practitioner with 15+ years building predictive and decision sy
 Known for strong statistical intuition and simple, interpretable solutions that turn weak models into reliable decision systems.
 
 ### Signature Strength
-
-Diagnosing underperforming models and improving them through segmentation, feature engineering, and statistical intuition.
+Diagnosing weak models and turning behavioral data into reliable decision systems through segmentation, feature engineering, and interpretable machine learning.
 
 ## Approach
 
-I focus on turning data into decision systems by combining statistical intuition,
-segmentation strategies, and feature engineering.
+I focus on uncovering hidden structure in behavioral data and translating it into practical decision tools.
 
-Much of my work involves diagnosing underperforming models, identifying hidden
-structure in the data, and designing features or segments that significantly
-improve predictive performance and interpretability.
+Much of my work involves diagnosing underperforming models, uncovering hidden behavioral structure in the data, and designing features that significantly improve predictive performance and interpretability.
 
 ## Core Capabilities
 
