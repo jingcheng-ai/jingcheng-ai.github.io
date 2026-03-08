@@ -1,11 +1,11 @@
 
 # Hi, I'm Jing!
 ##Applied Data Scientist specializing in behavioral modeling and decision systems.
-
+________________________________________________________________________________________________________________________________________________
 Applied Data Scientist with 15+ years of experience building predictive models and decision systems in complex behavioral data environments.
 
 I specialize in diagnosing weak predictive models and rebuilding them into reliable systems used for real business decisions.
-_________________________________________________________________________________________________________________________________________________
+
 ## Signature Strength
 
 Turning messy behavioral data into practical decision tools through:
