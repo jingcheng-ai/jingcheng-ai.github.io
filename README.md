@@ -1,6 +1,7 @@
 
 # Hi, I'm Jing!
 
+
 Machine learning practitioner with 15+ years building predictive and decision systems in complex behavioral data environments.
 
 Diagnosing weak models and improving them through segmentation, feature engineering, and behavioral signal discovey.
