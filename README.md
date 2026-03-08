@@ -1,9 +1,3 @@
-<table>
-<tr>
-<td width="180">
-<img src="Jing.jpg" width="160">
-</td>
-<td>
 
 # Hi, I'm Jing!
 
