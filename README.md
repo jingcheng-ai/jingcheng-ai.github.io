@@ -20,8 +20,8 @@ Most predictive systems fail because real signals are poorly represented in the 
 My process typically follows three steps:
 - Identify the behavioral signal that is present but not properly captured in the data.
 - Engineer features that capture those patterns
-- Building interpretable models that translate signals into reliable decisions
-This often reveals meaningful segments and drivers that complex models overlook.
+- Building interpretable models that translate signals into reliable decisions  
+  This often reveals meaningful segments and drivers that complex models overlook.
 
 ## Core Capabilities
 
