@@ -10,18 +10,18 @@ Specializing in turning messy customer behavior signals into reliable decision t
 Diagnosing weak or underperforming models and rebuilding them into reliable decision systems.
 
 My work often focuses on:
--behavioral segmentation
--feature engineering that captures real customer behavior
--interpretable models that teams can deploy and trust
+- behavioral segmentation
+- feature engineering that captures real customer behavior
+- interpretable models that teams can deploy and trust
 
 ## Approach
 
 Most predictive systems fail because behavioral signals are poorly represented in the data.
 
 My process typically follows three steps:
--Identify the behavioral structure hidden in the data
--Engineer features that capture those behavioral patterns
--Use simple, interpretable models to translate those signals into reliable decisions
+- Identify the behavioral structure hidden in the data
+- Engineer features that capture those behavioral patterns
+- Use simple, interpretable models to translate those signals into reliable decisions
 This often reveals meaningful customer segments and drivers that complex models miss.
 
 ## Core Capabilities
