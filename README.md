@@ -11,9 +11,9 @@ Diagnosing weak models and turning behavioral data into reliable decision system
 
 ## Approach
 
-I focus on uncovering hidden structure in behavioral data and translating it into practical decision tools.
+I focus on uncovering hidden structure in data and translating it into practical decision tools.
 
-Much of my work involves diagnosing underperforming models, uncovering hidden behavioral structure in the data, and designing features that significantly improve predictive performance and interpretability.
+Much of my work involves diagnosing underperforming models, uncovering meaningful behavioral segments, and designing features that significantly improve predictive performance and interpretability.
 
 ## Core Capabilities
 
