@@ -2,18 +2,27 @@
 # Hi, I'm Jing!
 
 
-Machine learning practitioner with 15+ years building predictive and decision systems in complex behavioral data environments.
+Applied Data Scientist with 15+ years building predictive and decision systems in complex behavioral data environments.
 
-Known for strong statistical intuition and simple, interpretable solutions that turn weak models into reliable decision systems.
+Specializing in turning messy customer behavior signals into reliable decision tools for marketing, risk, and strategy.
 
 ### Signature Strength
-Diagnosing weak models and turning behavioral data into reliable decision systems through segmentation, feature engineering, and interpretable machine learning.
+Diagnosing weak or underperforming models and rebuilding them into reliable decision systems.
+
+My work often focuses on:
+-behavioral segmentation
+-feature engineering that captures real customer behavior
+-interpretable models that teams can deploy and trust
 
 ## Approach
 
-I focus on uncovering hidden structure in data and translating it into practical decision tools.
+Most predictive systems fail because behavioral signals are poorly represented in the data.
 
-Much of my work involves diagnosing underperforming models, uncovering meaningful behavioral segments, and designing features that significantly improve predictive performance and interpretability.
+My process typically follows three steps:
+-Identify the behavioral structure hidden in the data
+-Engineer features that capture those behavioral patterns
+-Use simple, interpretable models to translate those signals into reliable decisions
+This often reveals meaningful customer segments and drivers that complex models miss.
 
 ## Core Capabilities
 
