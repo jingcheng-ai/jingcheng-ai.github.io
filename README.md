@@ -6,9 +6,6 @@ Machine learning practitioner with 15+ years building predictive and decision sy
 Known for strong statistical intuition and simple, interpretable solutions that turn weak models into reliable decision systems.
 
 
-</td>
-</tr>
-</table>
 
 ## Approach
 
