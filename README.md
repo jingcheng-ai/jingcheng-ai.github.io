@@ -32,10 +32,10 @@ improve predictive performance and interpretability.
   NLP and segmentation to identify employee sentiment drivers and workforce clusters.
   [View Project](https://github.com/jingcheng-ai/people-analytics-nlp-segmentation)
 
-- **Fraud Network Detection (under development)** 
+- **Fraud Network Detection (ongoing project)** 
   Graph-based fraud detection using entity relationships and engineered network features.
 
-- **End-to-End Machine Learning Pipeline (under development)**
+- **End-to-End Machine Learning Pipeline (ongoing project)**
   Reusable workflow with feature engineering and evaluation tools for improving predictive models.
   
 ## Tools
