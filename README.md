@@ -4,11 +4,11 @@
 
 Machine learning practitioner with 15+ years building predictive and decision systems in complex behavioral data environments.
 
-Diagnosing weak models and improving them through segmentation, feature engineering, and behavioral signal discovey.
-
 Known for strong statistical intuition and simple, interpretable solutions that turn weak models into reliable decision systems.
 
+### Signature Strength
 
+Diagnosing underperforming models and improving them through segmentation, feature engineering, and statistical intuition.
 
 ## Approach
 
@@ -27,12 +27,27 @@ improve predictive performance and interpretability.
 - NLP for unstructured behavioral data
 
 ## Featured Projects
+• **People Analytics: Sentiment & Segmentation**
 
-- **People Analytics Sentiment & Segmentation**  
-  NLP and segmentation to identify employee sentiment drivers and workforce clusters.
-  [View Project](https://github.com/jingcheng-ai/people-analytics-nlp-segmentation)
+*Goal:* Identify employee sentiment drivers and workforce clusters using NLP and clustering.
 
-- **Fraud Network Detection (ongoing project)** 
+NLP and segmentation to identify employee sentiment drivers and workforce clusters.
+
+[View Project](https://github.com/jingcheng-ai/people-analytics-nlp-segmentation)
+
+#### Analysis Pipeline
+Employee Reviews
+↓
+Text Cleaning
+↓
+Sentence Embedding
+↓
+Clustering
+↓
+Segment Insights
+
+• **Fraud Network Detection (ongoing project)**  
+  *Goal:* Detect suspicious entity relationships using graph-based network features.  
   Graph-based fraud detection using entity relationships and engineered network features.
 
 - **End-to-End Machine Learning Pipeline (ongoing project)**
